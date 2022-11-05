@@ -1,1 +1,1 @@
-# Trash-Bin-s-Automated-System
+# Trash Bin's Automated System
